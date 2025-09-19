@@ -4,7 +4,6 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 using ReqnrollProject_DI.Enums;
-using ReqnrollProject_DI.Interfaces;
 using ReqnrollProject_DI.Model;
 using ReqnrollProject_DI.Utils;
 using System;
